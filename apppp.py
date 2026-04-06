@@ -15,8 +15,6 @@ st.set_page_config(
 st.title("WaveGen UTT: Công cụ mô phỏng tín hiệu điện tử")
 st.markdown("""
 Đây là ứng dụng tạo và phân tích dạng sóng (Sin, Vuông, Tam giác) phục vụ nghiên cứu **Thiết kế vi mạch** tại **Đại học Công nghệ Giao thông Vận tải (UTT)**.
-
-
 """)
 
 # --- 3. PHẦN ĐIỀU KHIỂN (SIDEBAR) ---
@@ -62,4 +60,4 @@ st.audio(virtual_file, format="audio/wav")
 
 # Dòng này giúp Google biết trang web thuộc về UTT
 st.divider()
-st.caption("© 2026 Dự án WaveGen - Sinh viên Kỹ năng mềm UTT - Nhóm 46")
+st.caption("© 2026 Dự án WaveGen - Sinh viên Kỹ năng mềm UTT")
