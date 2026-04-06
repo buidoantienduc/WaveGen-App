@@ -16,10 +16,7 @@ st.title("WaveGen UTT: Công cụ mô phỏng tín hiệu điện tử")
 st.markdown("""
 Đây là ứng dụng tạo và phân tích dạng sóng (Sin, Vuông, Tam giác) phục vụ nghiên cứu **Thiết kế vi mạch** tại **Đại học Công nghệ Giao thông Vận tải (UTT)**.
 
-**Nhóm thực hiện (Nhóm 46):**
-* **Bùi Đoàn Tiến Đức**
-* **Hoàng Tiến Đạt**
-* **Nguyễn Tiến Đại**
+
 """)
 
 # --- 3. PHẦN ĐIỀU KHIỂN (SIDEBAR) ---
